@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 st.image(
-    "D:\LLM\My projects\chatbot.jpg",
+    "D:\AI_Projects\AI_Study_Assistant\assets\chatbot.jpg",
     width=250)
 
 st.title("📚 AI Study Assistant")
