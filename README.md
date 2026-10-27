@@ -11,8 +11,8 @@ An AI-powered learning application developed using Python, Streamlit, LangChain,
 
 ### Puzzle Mode
 
-![AI Study Assistant - scrrenshot1](screenshots/puzzle_mode1.png)
-![AI Study Assistant - scrrenshot2](screenshots/puzzle_mode2.png)
+![AI Study Assistant - screenshot1](screenshots/puzzle_mode1.png)
+![AI Study Assistant - screenshot2](screenshots/puzzle_mode2.png)
 
 ## Features
 
@@ -67,7 +67,7 @@ AI_Study_Assistant/
     └── puzzle_mode.png
 ```
 
-*The structure above shows the intended files and folders. Some files may need to be created.*
+
 
 ## Requirements
 
@@ -95,8 +95,6 @@ Download and install Ollama from https://ollama.com/.
 ```bash
 ollama pull qwen2.5:1.5b
 ```
-
-Make sure Ollama is running before launching the application.
 
 ### 4. Install Python dependencies
 
