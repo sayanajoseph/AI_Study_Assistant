@@ -108,8 +108,6 @@ uv sync
 uv run streamlit run app.py
 ```
 
-Streamlit will display a local URL to open the application in your browser.
-
 ## Limitations
 
 - AI-generated explanations and puzzle evaluations may contain errors.
